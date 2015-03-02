@@ -1,4 +1,3 @@
 # configs
-My .bash_profile and .alias files
-
-Len remember to always clone this branch to ~/myjunk/configs/
+this is in gitbucket because it has free private repo
+https://bitbucket.org/lensutton/configs

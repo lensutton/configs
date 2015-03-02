@@ -1,8 +1,0 @@
-# My aliases
-
-alias ls='ls -G'
-alias ll='ls -la'
-alias reload='source ~/.bash_profile'
-
-#local aliases
-source ~/.alias
